@@ -4,4 +4,4 @@ My school sent 3 teams.
 This is the last robotics competition before PSLE.
 After natural disasters, our versatile robot has fire fighting and debris clearing capabilities, which can be deployed quickly and efficiently.
 I came up with the design and the build as I have good experience in building things!
-We won the Bronze medal!
+Although we won the Bronze medal, I was happy to also learn from the winning designs!
